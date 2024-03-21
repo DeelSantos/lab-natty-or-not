@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre RPG de Mesa, estruturar o
 
 ## 🚀 Resultados
 O E-book apresenta conteúdo para aqueles que queiram entra no mundo dos rpgs de mesa e se tornar mestres ou jogadores!
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGAJv1H-Gs/rqZgafjYK0P8VcCc1jMl7w/view?utm_content=DAGAJv1H-Gs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
