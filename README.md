@@ -1,4 +1,4 @@
-# RPG de Mesa: Um mundo nas suas mãos 🌌
+# Explorando Mundos Imaginários: Um Guia para RPGs de Mesa 🌌
 
 ## 📒 Descrição
 Este e-book de 5 capitulos mostra como funciona o vasto mundo dos rpgs de mesa e como jogar
