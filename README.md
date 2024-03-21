@@ -3,10 +3,10 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# RPG de Mesa: Um guia para iniciantes ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um ebook que traz dicas de como começar a jogar rpg de mesa 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
